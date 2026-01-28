@@ -1,6 +1,6 @@
 ### myght Terms of Service
 
-These Terms of Service (the "Terms") set forth the terms and conditions for use of the smartphone application "myght" (the "Service") provided by Toru Takahashi (the "Operator"). By using the Service, you (the "User") agree to be bound by these Terms.
+These Terms of Service (the "Terms") set forth the terms and conditions for use of the smartphone application "myght" (the "Service") provided by Akira Takahashi (the "Operator"). By using the Service, you (the "User") agree to be bound by these Terms.
 
 #### Article 1 (Scope of Application)
 1. These Terms shall apply to all relationships between Users and the Operator concerning the use of the Service.
