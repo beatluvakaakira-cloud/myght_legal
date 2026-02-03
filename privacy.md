@@ -45,5 +45,5 @@ When changing this policy, we will notify users through in-app notifications. Fo
 Operator: Akira Takahashi
 Contact: beatluvakaakira@gmail.com
 
-Last Updated: January 6, 2026
+Last Updated: February 3, 2026
 
