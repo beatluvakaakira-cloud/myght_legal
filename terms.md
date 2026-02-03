@@ -95,5 +95,5 @@ Users shall not engage in the following actions when using the Service:
 1. These Terms shall be governed by the laws of Japan. However, if the consumer protection laws of the User's place of residence are more favorable than Japanese law, such laws shall take precedence.
 2. Any disputes arising in connection with the Service shall be subject to the exclusive jurisdiction of the Sapporo District Court as the court of first instance.
 
-Enacted: January 6, 2026
+Enacted: February 3, 2026
 
